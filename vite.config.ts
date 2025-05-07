@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react(),
     sitemap({
-      hostname: 'http://jrts.site',  /
+      hostname: 'http://jrts.site', 
     }),
   ],
 })
